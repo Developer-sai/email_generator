@@ -1,0 +1,39 @@
+{
+    "leads": [
+      {
+        "id": 1,
+        "name": "Sarah Johnson",
+        "job_title": "Head of Marketing",
+        "company": "TechGrowth Solutions",
+        "industry": "SaaS",
+        "interests": ["marketing automation", "lead generation", "content strategy"],
+        "pain_points": ["manual email outreach", "low response rates"],
+        "linkedin_activity": "Recently shared an article about marketing automation ROI"
+      },
+      {
+        "id": 2,
+        "name": "Michael Chen",
+        "job_title": "Sales Director",
+        "company": "DataInsight Corp",
+        "industry": "Data Analytics",
+        "interests": ["sales optimization", "CRM integration", "pipeline management"],
+        "pain_points": ["inefficient prospecting", "time-consuming follow-ups"],
+        "linkedin_activity": "Posted about challenges in sales prospecting at scale"
+      }
+    ],
+    "product": {
+      "name": "OutreachPro AI",
+      "description": "An AI-powered platform that automates personalized outreach at scale",
+      "key_features": [
+        "Intelligent lead targeting",
+        "Customizable email templates",
+        "A/B testing capabilities",
+        "Performance analytics dashboard"
+      ],
+      "benefits": [
+        "50% increase in response rates",
+        "75% reduction in manual outreach time",
+        "Continuous optimization through AI learning"
+      ]
+    }
+  }
