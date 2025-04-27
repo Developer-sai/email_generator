@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# email_generator
+
+>>>>>>> 0db24f00539dbc71eba9d2cc5836eb0198c3fdc2
 # AI-Driven Email Generation Prototype
 
 A professional-grade system for generating personalized sales emails by combining lead data and product information through AI reasoning.
@@ -157,4 +162,8 @@ The application includes comprehensive error handling:
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+This project is licensed under the MIT License - see the LICENSE file for details.
+>>>>>>> 0db24f00539dbc71eba9d2cc5836eb0198c3fdc2
